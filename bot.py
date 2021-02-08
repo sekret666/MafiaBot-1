@@ -15,7 +15,7 @@ game_chat_id = None
 last_message_id = dict()  # Key : id of player, value: last message id
 
 # --- CONSTANTS --- #
-BOT_TOKEN = "416682801:AAHygzvxHclVevhrwIufoUuNCAgJueh2GpI"
+BOT_TOKEN = "1624907624:AAHe4LwnAC7sLbiyWQJq-5l6uq4BchytHe4"
 REGISTRATION_TIME = 60  # In seconds
 REQUIRED_PLAYERS = 1
 LEADERS_INNOCENTS = ['detective']
